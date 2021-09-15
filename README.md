@@ -1,7 +1,7 @@
 # Data Science Project 
 
-Data Science Projects will be posted during the masters. 
-Mainly wokring with Python so it would be a bit of challenge for me! 
+Here, It will post assignments and projects during the Masters. 
+Working with Python would be a bit of a challenge for me!
 
 * INF200
 * INF221
